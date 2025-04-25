@@ -1,0 +1,35 @@
+name: Build APK
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: self-hosted
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up JDK
+        uses: actions/setup-java@v3
+        with:
+          distribution: 'temurin'
+          java-version: 22.0.2
+
+      - name: Give gradlew permission
+        run: chmod +x ./gradlew
+
+      - name: Build APK
+        run: ./gradlew assembleDebug
+
+      - name: Compress APK
+        run: |
+          mkdir output
+          zip -j output/my-demo-$(date +%Y%m%d-%H%M).zip app/build/outputs/apk/debug/*.apk
+
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: release-apk
+          path: output/*.zip
