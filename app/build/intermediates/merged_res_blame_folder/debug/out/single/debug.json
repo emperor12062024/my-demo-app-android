@@ -1,0 +1,562 @@
+[
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_icon_touch_id.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/icon_touch_id.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_bot_graphic.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/bot_graphic.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_sort_asc.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/sort_asc.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/layout_fragment_product_detail.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/fragment_product_detail.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/layout_menu_item.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/menu_item.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_text_bg.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/text_bg.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_selected_star.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_selected_star.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/layout_activity_splash.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_edit_bg_red.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/edit_bg_red.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_product5_yellow.jpg.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_product5_yellow.jpg"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_rounded_corner_add_bg.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/rounded_corner_add_bg.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_done.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_done.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_product4_green.jpg.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_product4_green.jpg"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_rounded_fields_bg.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/rounded_fields_bg.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_product3_brown.jpg.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_product3_brown.jpg"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_red_circle.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_red_circle.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_product4_violet.jpg.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_product4_violet.jpg"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_product1.jpg.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_product1.jpg"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_red_circle_side.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_red_circle_side.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_tab_layout_background.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/tab_layout_background.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/anim_rotate.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/anim/rotate.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_mastercard.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/mastercard.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_tab_background_selected.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/tab_background_selected.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/layout_activity_debug_crash.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/activity_debug_crash.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_cart_number_bg.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/cart_number_bg.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_rounded_fields_bg_orange.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/rounded_fields_bg_orange.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/font_bold_font.ttf.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/font/bold_font.ttf"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_product3_red.jpg.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_product3_red.jpg"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_product3_green.jpg.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_product3_green.jpg"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_black_circle.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_black_circle.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_recipe_selction_bg.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/recipe_selction_bg.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_product3_blue.jpg.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_product3_blue.jpg"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_about_drawable.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/about_drawable.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_blue_circle.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_blue_circle.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_gradient_bg.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/gradient_bg.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_login_button_bg.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/login_button_bg.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_product5.jpg.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_product5.jpg"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/layout_sort_dialog.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/sort_dialog.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_unselected_start.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_unselected_start.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_un_selected_dot.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/un_selected_dot.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_product3_pink.jpg.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_product3_pink.jpg"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_visa.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/visa.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_fb.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_fb.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_title.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/title.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/font_light_font.ttf.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/font/light_font.ttf"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_sort_des.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/sort_des.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/layout_dialog_review.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/dialog_review.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_my_button_background_selector.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/my_button_background_selector.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_cart.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/cart.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_in.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_in.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_product5_pink.jpg.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_product5_pink.jpg"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_menu.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_menu.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_gray_circle.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_gray_circle.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/layout_fragment_web_address.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/fragment_web_address.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_product2.jpg.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_product2.jpg"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_circle_view.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/circle_view.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable-xxhdpi_loading_icon.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable-xxhdpi/loading_icon.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/layout_activity_virtual_usb.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/activity_virtual_usb.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_gray_circle_side.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_gray_circle_side.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_alert.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/alert.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/layout_fragment_about.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/fragment_about.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/layout_fragment_checkout_complete.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/fragment_checkout_complete.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_horse.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_horse.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_product4_yellow.jpg.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_product4_yellow.jpg"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/layout_fragment_drawing.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/fragment_drawing.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_bottom_radius_view.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/bottom_radius_view.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_bg_my_list_button.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/bg_my_list_button.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/layout_fragment_login.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_product4_orange.jpg.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_product4_orange.jpg"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/layout_menu_header_layout.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/menu_header_layout.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_tab_background.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/tab_background.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_price_asc.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/price_asc.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_green_circle.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_green_circle.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/layout_item_color.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/item_color.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_not_pressed.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/not_pressed.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_minus.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_minus.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_product4_red.jpg.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_product4_red.jpg"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_item_bottom_view_bg.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/item_bottom_view_bg.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_black_circle_side.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_black_circle_side.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_splash_logo.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_splash_logo.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_product3.jpg.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_product3.jpg"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/layout_fragment_checkout_info.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/fragment_checkout_info.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/layout_ratting_layout.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/ratting_layout.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_unselected_radio_bg.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/unselected_radio_bg.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_product2_green.jpg.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_product2_green.jpg"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_tab_layout_selector.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/tab_layout_selector.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_filled_grey_circle.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/filled_grey_circle.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/layout_item_my_cart.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/item_my_cart.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_product5_purple.jpg.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_product5_purple.jpg"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/layout_fragment_location.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/fragment_location.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_textview_states.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/textview_states.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_product2_yellow.jpg.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_product2_yellow.jpg"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_product4.jpg.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_product4.jpg"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/layout_activity_debug_feedback.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/activity_debug_feedback.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/layout_fragment_web_view.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/fragment_web_view.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_blue_circle_side.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_blue_circle_side.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/layout_fragment_place_order.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/fragment_place_order.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/layout_navigation_layout.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/navigation_layout.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_back_button.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/back_button.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/layout_item_products.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/item_products.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_price_des.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/price_des.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/layout_fragment_product_catalog.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/fragment_product_catalog.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/layout_fragment_qr.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/fragment_qr.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_product2_red.jpg.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_product2_red.jpg"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_question.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/question.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/layout_fragment_checkout.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/fragment_checkout.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/layout_fragment_cart.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/fragment_cart.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_pressed.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/pressed.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_vector.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/vector.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_edit_bg_grey.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/edit_bg_grey.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_drawing_bg.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/drawing_bg.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/layout_fragment_biometric.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/fragment_biometric.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/font_regular_font_.ttf.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/font/regular_font_.ttf"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_green_circle_side.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_green_circle_side.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_product6.jpg.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_product6.jpg"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_product2_blue.jpg.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_product2_blue.jpg"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_grey_circle.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/grey_circle.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_product5_turquoise.jpg.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_product5_turquoise.jpg"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_twitter.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_twitter.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/font_regular_font.otf.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/font/regular_font.otf"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_ic_plus.png.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/ic_plus.png"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/merged_res/debug/drawable_cursor_drawable.xml.flat",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/drawable/cursor_drawable.xml"
+    }
+]

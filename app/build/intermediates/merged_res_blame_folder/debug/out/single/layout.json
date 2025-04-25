@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_login.xml",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_web_address.xml",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/fragment_web_address.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_location.xml",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/fragment_location.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_web_view.xml",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/fragment_web_view.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_drawing.xml",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/fragment_drawing.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_product_catalog.xml",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/fragment_product_catalog.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_debug_feedback.xml",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/activity_debug_feedback.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_qr.xml",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/fragment_qr.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/sort_dialog.xml",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/sort_dialog.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_checkout.xml",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/fragment_checkout.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_debug_crash.xml",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/activity_debug_crash.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_product_detail.xml",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/fragment_product_detail.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_splash.xml",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/menu_header_layout.xml",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/menu_header_layout.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_virtual_usb.xml",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/activity_virtual_usb.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_checkout_complete.xml",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/fragment_checkout_complete.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/ratting_layout.xml",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/ratting_layout.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dialog_review.xml",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/dialog_review.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_cart.xml",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/fragment_cart.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_biometric.xml",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/fragment_biometric.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/menu_item.xml",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/menu_item.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_products.xml",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/item_products.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/navigation_layout.xml",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/navigation_layout.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_my_cart.xml",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/item_my_cart.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_place_order.xml",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/fragment_place_order.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_about.xml",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/fragment_about.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_checkout_info.xml",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/fragment_checkout_info.xml"
+    },
+    {
+        "merged": "/www/android/git/my-demo-app-android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_color.xml",
+        "source": "/www/android/git/my-demo-app-android/app/src/main/res/layout/item_color.xml"
+    }
+]
